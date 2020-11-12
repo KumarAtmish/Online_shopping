@@ -1,0 +1,45 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  border: 1px solid rgb(39, 37, 37);
+  background-color: rgb(26, 25, 24);
+  text-align: center;
+  color: rgb(12, 6, 2);
+}
+.item {
+  display: flex;
+  justify-content: space-between;
+}
+.list {
+  background-color: #fdfdfd;
+  border: 1px solid rgb(8, 8, 8);
+  width: 50%;
+  text-align: center;
+  color: rgb(2, 2, 1);
+}
+.cart {
+  border: 1px solid rgb(0, 0, 0);
+  width: 50%;
+  background-color: rgb(255, 255, 255);
+  text-align: center;
+  margin: 0 auto;
+}
+.items1 {
+  width: 60%;
+  align-content: center;
+  margin: 0 auto;
+  margin-top: 1rem;
+}
+.items2 {
+  border: 1px solid rgb(192, 176, 176);
+  width: 100%;
+  align-content: center;
+  margin-top: 4px;
+}
+.cart1 {
+  border: 1px solid rgb(18, 18, 27);
+  width: 60%;
+  align-content: center;
+  margin: 0 auto;
+  background-color: rgb(152, 218, 172);
+}
